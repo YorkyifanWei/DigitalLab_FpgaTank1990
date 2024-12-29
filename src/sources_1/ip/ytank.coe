@@ -1,0 +1,12 @@
+;32k*12
+memory_initialization_radix=16;
+memory_initialization_vector=
+000 000 000 fff fff 000 000 000
+000 ddd 000 fff fff 000 ddd 000
+ddd fff 000 fff fff 000 fff ddd
+fff fff 000 fff fff 000 fff fff
+fff fff 333 fff fff 333 fff fff
+ddd fff fff fff fff fff fff ddd
+ddd fff fff fff fff fff fff ddd
+000 ddd ddd fff fff ddd ddd 000
+;
